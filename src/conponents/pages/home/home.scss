@@ -1,0 +1,21 @@
+.home-container {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Acme', sans-serif;
+    position: relative;
+    .canvas-container{
+        width: 100%;
+        height: 100%;
+        top: 100px;
+    }
+    .typewords-home{
+        position: absolute;
+        top: 55%;
+        
+
+    }
+}

@@ -1,0 +1,23 @@
+@import '../../../sass/global.scss';
+.container-projects {
+    width: 80%;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    top: 100px;
+    padding: 20px;
+    @include mobile{
+        position: absolute;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: center;
+        top: 150px;
+        
+        flex-direction: column;
+       
+      
+    }
+}

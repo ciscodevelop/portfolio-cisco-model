@@ -1,0 +1,92 @@
+@import '../../../sass/global.scss';
+.skills-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    @include mobile{
+        top: 0px;
+    }
+  .container-skills {
+   
+    display: flex;    
+    
+    justify-content: center;      
+    align-items: center;
+    .skill-item{
+      background-color: $mainColorCard;
+      width: 180px;
+      height: 115px;
+      display: flex;
+      justify-content: center;      
+      align-items: center;
+      flex-direction: column;
+      border-radius: 10px;
+      margin: 10px;
+      cursor: pointer;
+      transition: all .2s ease;
+      
+      &:hover {
+        transform: scale(1.2);
+      }
+    }
+    @include mobile{
+        flex-wrap: wrap;
+        
+      height: 5px;
+      justify-content: center;      
+      align-items: center;
+    }
+
+    img {    
+      
+      width: 35px;
+      height: 35px;
+      margin: 25px;     
+      position: relative;
+    
+    }
+  }
+  .header-text{
+    
+    .container-writer{
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        font-size: 8px;
+        color: crimson;
+        min-width:270px;
+        margin: 20px;
+     
+         .text{
+         
+          color: aliceblue;
+          @include mobile{
+            font-size: 13px;
+            position: relative;
+            left: -10px;
+            
+        }
+        }
+        .text-writer{
+          display: flex;
+          position: relative;
+          top:-4px;
+
+          font-size: 20px;
+          margin: 15px;  
+           @include mobile{
+          font-size: 16px;
+          margin: 0px;
+      }
+        
+        }
+        
+       
+    }
+}
+}
+
+ 
+
