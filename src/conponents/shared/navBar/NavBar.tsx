@@ -22,7 +22,7 @@ function NavBar() {
     <nav className="container-navbar">
       <div className="navbar">
         <div className="nav-left animate__animated animate__bounceInLeft">
-          <NavLink to={"/"}>
+          <NavLink to={"/portfolio-cisco-model"}>
             <img
               src={logo}
               className="logo animate__animated animate__bounceInDown"
@@ -30,16 +30,16 @@ function NavBar() {
             ></img>
           </NavLink>
           <NavLink  className='logo-text '
-            to={"/"}>Cisco
+            to={"/portfolio-cisco-model"}>Cisco
             
           </NavLink>
         </div>
         <div className="nav-right animate__animated animate__bounceInRight  ">
           <NavLink style={isActive => ({ color: isActive ? '#fff' : '#b1ebe5' })}
-            to={"/portfolio-cisco-model/skills"}>{isTrue ? "Abilità" : "Skills"}
+            to={"/skills"}>{isTrue ? "Abilità" : "Skills"}
           </NavLink>
           <NavLink style={isActive => ({ color: isActive ? '#fff' : '#b1ebe5' })}
-            to={"/portfolio-cisco-model/projects"}>{isTrue ? "Progetti" : "Projects"}
+            to={"/projects"}>{isTrue ? "Progetti" : "Projects"}
           </NavLink>
           <NavLink style={isActive => ({ color: isActive ? '#fff' : '#b1ebe5' })}
             to={"/about"}>{isTrue ? "Chi Sono" : "About"}

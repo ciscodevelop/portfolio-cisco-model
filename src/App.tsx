@@ -25,8 +25,8 @@ function App() {
          
             <Route path={"/"} exact component={Home}></Route>  
             <Route path={"/portfolio-cisco-model"} exact component={Home}></Route>    
-            <Route path={"/portfolio-cisco-model/skills"} exact component={Skills}></Route>
-            <Route path={"/portfolio-cisco-model/projects"} exact component={Projects}></Route>
+            <Route path={"/skills"} exact component={Skills}></Route>
+            <Route path={"/projects"} exact component={Projects}></Route>
             <Route path={"/about"} exact component={About}></Route>
             <Route path={"/contact"} exact component={Contact}></Route>
             <Route path={"*"} exact component={NotFound}></Route>  
