@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import { Link, NavLink } from "react-router-dom";
+import {NavLink } from "react-router-dom";
 import "./navBar.scss";
 import logo from "../../../media/logo/logo.png";
 import US from "country-flag-icons/react/3x2/US";
