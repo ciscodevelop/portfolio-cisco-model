@@ -1,9 +1,0 @@
-$mainColor: #b1ebe5;
-$mainColorNavLink: #b1ebe5;
-$mainColorCard: #097878;
-$width:600px;
-@mixin mobile  {
-    @media (max-width:#{$width}) {
-        @content
-    }
-}
