@@ -20,8 +20,9 @@ const About = (props: Props) => {
       </div>
       <div className="right">
         <div className="container-text-body animate__animated animate__fadeInLeft">
-          <h1>{isTrue ? 'Chi Sono' : 'About Me'}</h1>
+          <h2>{isTrue ? 'Chi Sono' : 'About Me'}</h2>
           <p>{isTrue ? textIt : textEn}</p>
+          <h2>{isTrue ? 'Abilità' : 'Skills'}</h2>
           <p>{isTrue ? text1It : text1En}</p>
         </div>
       </div>
