@@ -151,5 +151,4 @@ export const DataProjects = [
         img: MoviStreaming,
         link: 'https://ciscodevelop.github.io/my-app-films/'
 
-    }
-]
+    }]

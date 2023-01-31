@@ -1,9 +1,10 @@
 .app-container {
   display: flex;
-  width: 100vw;
+  //width: 100vw;
   height: 100vh;  
   color: aliceblue;
  
+
 
    .app-header {
     height: 50px;
@@ -17,11 +18,7 @@
     display: flex;
     align-items: center;    
     justify-content: center;
-    overflow-x: hidden;
-    scrollbar-width: none;
-    &::-webkit-scrollbar {
-     display: none;
- }
+     
   }
 
   
