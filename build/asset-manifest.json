@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio-cisco-model/static/css/main.e1398584.css",
-    "main.js": "/portfolio-cisco-model/static/js/main.48186d09.js",
+    "main.css": "/portfolio-cisco-model/static/css/main.ce7ddc09.css",
+    "main.js": "/portfolio-cisco-model/static/js/main.6cb39c5b.js",
     "static/js/787.128fc6e9.chunk.js": "/portfolio-cisco-model/static/js/787.128fc6e9.chunk.js",
     "static/media/MoviStreaming.png": "/portfolio-cisco-model/static/media/MoviStreaming.66ed89b187c4eb093805.png",
     "static/media/logo.png": "/portfolio-cisco-model/static/media/logo.b249efdad2cd3c890c50.png",
     "static/media/ciscoImage.jpeg": "/portfolio-cisco-model/static/media/ciscoImage.7b4a8ed030ec3e895817.jpeg",
     "static/media/bootstrap.png": "/portfolio-cisco-model/static/media/bootstrap.268c4375260420e8d982.png",
     "index.html": "/portfolio-cisco-model/index.html",
-    "main.e1398584.css.map": "/portfolio-cisco-model/static/css/main.e1398584.css.map",
-    "main.48186d09.js.map": "/portfolio-cisco-model/static/js/main.48186d09.js.map",
+    "main.ce7ddc09.css.map": "/portfolio-cisco-model/static/css/main.ce7ddc09.css.map",
+    "main.6cb39c5b.js.map": "/portfolio-cisco-model/static/js/main.6cb39c5b.js.map",
     "787.128fc6e9.chunk.js.map": "/portfolio-cisco-model/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1398584.css",
-    "static/js/main.48186d09.js"
+    "static/css/main.ce7ddc09.css",
+    "static/js/main.6cb39c5b.js"
   ]
 }
