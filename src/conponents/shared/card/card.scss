@@ -1,28 +1,47 @@
 @import "../../../sass/global.scss";
 .card {
   width: 18rem;
+  
   background-color: $mainColorCard !important;
-  box-shadow: 5px 2px 30px 5px rgba(114, 174, 209, 0.527);
+  box-shadow: 5px 2px 8px 5px rgb(9, 120, 120, 0.457);
   color: rgb(0, 0, 0);
-  margin: 10px;
-  .img-container{
+  margin: 15px;
+  position: relative;
+ //top: 50px;
+  //margin-bottom: 50px; 
+  border-radius: 15px!important;
+
+  .img-container {
     width: 100%;
     height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
+   
+    .card-img-top {
+      width: 90%;
+      height: 90%;
+      cursor: pointer;
+      border-radius: 15px;
+      margin: 15px;
 
-      .card-img-top {
-                    
-          width: 90%;
-          height: 90%;
-          cursor: pointer;
-          border-radius: 25px;
-          margin: 15px;
-          
-          &:hover {
-              transform: scale(.9);
-            }
-        }
+      &:hover {
+        transform: scale(0.9);
+      }
     }
+  }
+  .card-body {
+    .card-title {
+    }
+    .card-desc {
+      max-height: 100px;
+      overflow-y: scroll;
+      scrollbar-width: none;
+       &::-webkit-scrollbar {
+        display: none;
+    }
+      
+    }
+        
+  }
 }
