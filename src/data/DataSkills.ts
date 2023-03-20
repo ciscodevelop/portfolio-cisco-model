@@ -1,11 +1,11 @@
 //import nodeImage from "../../../media/IconsSkills/001-node-js.png";
-import nodeImage from "../../src/media/IconsSkills/001-node-js.png";
-import jsImage from "../../src/media/IconsSkills/002-js.png";
-import htmlImage from "../../src/media/IconsSkills/003-html-5.png";
-import cssImage from "../../src/media/IconsSkills/004-css-3.png";
-import reactImage from "../../src/media/IconsSkills/005-react.png";
-import tsImage from "../../src/media/IconsSkills/006-ts.png";
-import bootstrapImage from "../../src/media/IconsSkills/bootstrap.png";
+import nodeImage from "../assets/IconsSkills/001-node-js.png";
+import jsImage from "../assets/IconsSkills/002-js.png";
+import htmlImage from "../assets/IconsSkills/003-html-5.png";
+import cssImage from "../assets/IconsSkills/004-css-3.png";
+import reactImage from "../assets/IconsSkills/005-react.png";
+import tsImage from "../assets/IconsSkills/006-ts.png";
+import bootstrapImage from "../assets/IconsSkills/bootstrap.png";
 
 export const DataSkills = [
   {
@@ -37,9 +37,10 @@ export const DataSkills = [
     title: "TYPESCRIPT",
     desc: "Typescript",
     img: tsImage,
-  },{
+  },
+  {
     title: "BOOTSTRAP",
     desc: "Bootstrap",
     img: bootstrapImage,
-  }
+  },
 ];
