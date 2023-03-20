@@ -1,19 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio-cisco-model/static/css/main.d4d11152.css",
-    "main.js": "/portfolio-cisco-model/static/js/main.b8519bb3.js",
-    "static/js/787.128fc6e9.chunk.js": "/portfolio-cisco-model/static/js/787.128fc6e9.chunk.js",
+    "main.css": "/portfolio-cisco-model/static/css/main.75066c16.css",
+    "main.js": "/portfolio-cisco-model/static/js/main.8bfba5ad.js",
+    "static/media/netflix-clone.png": "/portfolio-cisco-model/static/media/netflix-clone.ec6762e5d4a045bcc69b.png",
     "static/media/MoviStreaming.png": "/portfolio-cisco-model/static/media/MoviStreaming.66ed89b187c4eb093805.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio-cisco-model/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/todoApp.png": "/portfolio-cisco-model/static/media/todoApp.9aa00964ef5ad74c5db0.png",
+    "static/media/portfolio-cisco-1.png": "/portfolio-cisco-model/static/media/portfolio-cisco-1.d3f2c5f8844c43db09cd.png",
+    "static/media/dashboard.png": "/portfolio-cisco-model/static/media/dashboard.b8014c31bf56a0a4cd51.png",
+    "static/media/fontawesome-webfont.eot": "/portfolio-cisco-model/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolio-cisco-model/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/logo.png": "/portfolio-cisco-model/static/media/logo.b249efdad2cd3c890c50.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio-cisco-model/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/ciscoImage.jpeg": "/portfolio-cisco-model/static/media/ciscoImage.7b4a8ed030ec3e895817.jpeg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio-cisco-model/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/bootstrap.png": "/portfolio-cisco-model/static/media/bootstrap.268c4375260420e8d982.png",
     "index.html": "/portfolio-cisco-model/index.html",
-    "main.d4d11152.css.map": "/portfolio-cisco-model/static/css/main.d4d11152.css.map",
-    "main.b8519bb3.js.map": "/portfolio-cisco-model/static/js/main.b8519bb3.js.map",
-    "787.128fc6e9.chunk.js.map": "/portfolio-cisco-model/static/js/787.128fc6e9.chunk.js.map"
+    "main.75066c16.css.map": "/portfolio-cisco-model/static/css/main.75066c16.css.map",
+    "main.8bfba5ad.js.map": "/portfolio-cisco-model/static/js/main.8bfba5ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4d11152.css",
-    "static/js/main.b8519bb3.js"
+    "static/css/main.75066c16.css",
+    "static/js/main.8bfba5ad.js"
   ]
 }
